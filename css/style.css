@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+body {
+    background-color: blanchedalmond;
+    font-family: "Raleway", sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Outfit", sans-serif;
+    text-decoration: wavy underline 2px;
+}
+
+#text1 {
+    color: rgb(65, 65, 65);
+    border: 2px dashed green;
+    padding: 10px;
+    margin: 10px auto;
+    width: 50%;
+    text-shadow: 5px 5px 5px blue red;
+    text-transform: lowercase;
+}
+#text2 {
+    border: 5px solid greenyellow;
+    border-left: 10px solid black;
+    padding: 5px 20px;
+    width: 75%;
+    border-radius: 7px 0px 60px 40px;
+    line-height: 150%;
+    text-indent: 10px;
+}
